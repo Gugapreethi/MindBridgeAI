@@ -51,7 +51,7 @@ export default function ProfileScreen({ userProfile, onUpdateProfile, onLogout }
     Alert.alert('✅ Added!', `${familyName} care network-ல add ஆனாங்க!`);
   };
 
-  const removeCareNetwork = (index) => {
+  const removeCareNetwork = (index) => { 
     Alert.alert(
       'Remove Contact',
       'இந்த contact-ஐ remove பண்றியா?',
