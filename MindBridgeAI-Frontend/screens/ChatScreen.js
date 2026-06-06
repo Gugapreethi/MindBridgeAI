@@ -6,8 +6,7 @@ import {
 } from 'react-native';
 import axios from 'axios';
 import { detectCrisis } from './CrisisScreen';
-
-const GROQ_API_KEY = 'உன்_key_இங்க_போடு';
+const GROQ_API_KEY = process.env.EXPO_PUBLIC_GROQ_API_KEY;
 
 export default function ChatScreen({ userProfile, onBack, navigation }) {
   const [messages, setMessages] = useState([
