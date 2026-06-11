@@ -10,7 +10,7 @@ MindBridge AI is a personalized mental health companion app built for India — 
 
 ![MindBridge AI — All Modules Demo](./mindbridge-demo.jpg)
 
-> Complete app UI — 14 screens across 7 modules
+> Complete app UI — 14 screens across 7 modules 
 
 | 7 | 14 | 5 | 3 |
 |:---:|:---:|:---:|:---:|
